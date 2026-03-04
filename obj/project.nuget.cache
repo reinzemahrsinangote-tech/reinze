@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pXx7CXRz+I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tesla\\Documents\\newproject\\hehe\\Reinze\\Reinze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tesla\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
