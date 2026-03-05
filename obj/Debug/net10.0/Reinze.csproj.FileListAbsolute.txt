@@ -71,8 +71,6 @@ C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\if9
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\43g7ivkh94-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\p06rhb9ml9-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\rzqqut1vrg-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qglxvnjgi6-{0}-3v85b0bblt-3v85b0bblt.gz
-C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qe5m5nqios-{0}-3v85b0bblt-3v85b0bblt.gz
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +81,6 @@ C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\refint\Reinze.
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.pdb
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.genruntimeconfig.cache
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\ref\Reinze.dll
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.sourcelink.json
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qglxvnjgi6-{0}-hzxw0lv0dn-hzxw0lv0dn.gz
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qe5m5nqios-{0}-hzxw0lv0dn-hzxw0lv0dn.gz
