@@ -13,8 +13,8 @@ main {
 }
 
 .top-row {
-    background-color: lab(21.62% 54.73 -70.16);
-    border-bottom: 1px solid hsl(340, 100%, 53%);
+    background-color: lab(0.68% 2.57 -5.39 / 0.4);
+    border-bottom: 1px solid hsla(338, 100%, 98%, 0.918);
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;

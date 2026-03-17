@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reinze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fbe8e1bb6d828600bb8a3af8bac47b2f690613c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f4b92b91b8c96657a62b08ec8de082a1fd044e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reinze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reinze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

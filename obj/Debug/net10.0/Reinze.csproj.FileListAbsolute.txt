@@ -82,5 +82,6 @@ C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.pdb
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.genruntimeconfig.cache
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\ref\Reinze.dll
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.sourcelink.json
-C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qglxvnjgi6-{0}-hzxw0lv0dn-hzxw0lv0dn.gz
-C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qe5m5nqios-{0}-hzxw0lv0dn-hzxw0lv0dn.gz
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qglxvnjgi6-{0}-oukwszab08-oukwszab08.gz
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qe5m5nqios-{0}-oukwszab08-oukwszab08.gz
