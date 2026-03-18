@@ -58,3 +58,28 @@ h1:focus {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+.card {
+    transition: all 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Moves the card up slightly */
+    border: 1px solid #00acee;   /* Adds a blue glow outline */
+    box-shadow: 0 4px 15px rgba(0, 172, 238, 0.3);
+}
+
+.btn-back, .btn-home {
+    background-color: #0ea5e9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.btn-back:hover {
+    background-color: #0284c7;
+}

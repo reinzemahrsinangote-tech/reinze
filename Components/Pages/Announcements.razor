@@ -1,0 +1,13 @@
+@page "/announcements"
+@inject NavigationManager Nav
+@rendermode InteractiveServer
+
+<div class="page-container">
+    <button class="btn-back" @onclick='() => Nav.NavigateTo("/")'>← Back</button>
+    <h2 class="text-blue">Announcements</h2>
+
+    <div class="announcement-banner">
+        <h4>🚨 Exam Alert</h4>
+        <p>Don't forget the Programming exam this Friday at 10:00 AM in Lab 3.</p>
+    </div>
+</div>

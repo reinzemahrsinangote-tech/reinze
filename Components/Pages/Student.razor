@@ -1,7 +1,43 @@
 ﻿@page "/"
+@attribute [StreamRendering]
+@inject NavigationManager Nav
 
 <PageTitle>Student</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Student Dashboard</h1>
 
-Welcome to your new app.
+<div class="dashboard">
+
+    @* Profile Card *@
+    <div class="card profile" @onclick='() => Nav.NavigateTo("/profile")' style="cursor: pointer;">
+        <h4>Profile</h4>
+        <img src="images/avatar.jpg" />
+        <p>Name: Reinze Mahr Sinangote</p>
+        <p>Course: BSIT</p>
+    </div>
+
+    @* Grades Card *@
+    <div class="card" @onclick='() => Nav.NavigateTo("/grades")' style="cursor: pointer;">
+        <h4>Grades</h4>
+        <table>
+            <tr><th>Subject</th><th>Grade</th></tr>
+            <tr><td>Programming</td><td>1.75</td></tr>
+        </table>
+    </div>
+
+    @* Tasks Card *@
+    <div class="card" @onclick='() => Nav.NavigateTo("/tasks")' style="cursor: pointer;">
+        <h4>Tasks</h4>
+        <ul>
+            <li>✔ Assignment</li>
+            <li>❌ Project</li>
+        </ul>
+    </div>
+
+    @* Announcements Card *@
+    <div class="card" @onclick='() => Nav.NavigateTo("/announcements")' style="cursor: pointer;">
+        <h4>Announcements</h4>
+        <div class="announcement">Exam on Friday!</div>
+    </div>
+
+</div>

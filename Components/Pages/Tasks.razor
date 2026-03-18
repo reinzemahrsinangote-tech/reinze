@@ -1,0 +1,14 @@
+@page "/tasks"
+@inject NavigationManager Nav
+@rendermode InteractiveServer
+
+<div class="page-container">
+    <button class="btn-back" @onclick='() => Nav.NavigateTo("/")'>← Back</button>
+    <h2 class="text-blue">My Tasks</h2>
+
+    <div class="task-list">
+        <div class="task-item-done">✔ Finish Midterm Assignment</div>
+        <div class="task-item-pending">✘ Complete Capstone Project</div>
+        <div class="task-item-pending">✘ Study for Quiz</div>
+    </div>
+</div>

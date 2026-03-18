@@ -1,0 +1,107 @@
+/* GENERAL PAGE */
+body {
+    font-family: Arial, sans-serif;
+    background: #000000; /* dark gradient */
+    margin: 0;
+    padding: 0;
+    color: white; /* main text white */
+}
+
+/* DASHBOARD CONTAINER */
+.dashboard {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 30px;
+}
+
+/* CARD STYLE */
+.card {
+    background: #16438b; /* dark blue */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+    transition: 0.3s;
+    color: white; /* card text white */
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* HEADINGS */
+h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 28px;
+    color: white; /* make headings visible */
+}
+
+h4 {
+    margin-bottom: 10px;
+    color: white; /* change h4 to white too */
+}
+
+/* PROFILE */
+.profile img {
+    width: 30px;
+    border-radius: 20%;
+    margin-bottom: 10px;
+}
+.card {
+    cursor: pointer !important;
+}
+
+/* TABLE (GRADES) */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white; /* table text white */
+}
+
+th {
+    background: #0ea5e9;
+    padding: 10px;
+    color: white; /* table header text white */
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    color: white; /* table data text white */
+}
+
+tr:nth-child(even) {
+    background: #334155;
+}
+
+/* TASK LIST */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
+    margin: 5px 0;
+    background: #cfd6e0;
+    border-radius: 8px;
+    color: #0f172a; /* dark text for contrast on light li background */
+}
+
+/* ANNOUNCEMENTS */
+.announcement {
+    background: #0ea5e9;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    color: white; /* announcement text white */
+    font-weight: bold;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .dashboard {
+        grid-template-columns: 1fr;
+    }
+}

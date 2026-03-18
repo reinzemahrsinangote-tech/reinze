@@ -26,6 +26,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Announcements.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBbm5vdW5jZW1lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,16 +38,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Schedule.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTY2hlZHVsZS5yYXpvcg==
+[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Grades.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHcmFkZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Student.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdHVkZW50LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Tasks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNrcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Routes.razor]
@@ -69,3 +69,7 @@ build_metadata.AdditionalFiles.CssScope = b-l634hpk08p
 [C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-lusr6xwfb7
+
+[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Student.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdHVkZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-txuzc0vu1t

@@ -23,7 +23,6 @@ C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\scopedcss\Comp
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\scopedcss\bundle\Reinze.styles.css
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\scopedcss\projectbundle\Reinze.bundle.scp.css
-C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\p2n1dsvsw2-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\5eibsrotp0-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\1wffnktx3u-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\ty643qtio6-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -83,5 +82,7 @@ C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.genrunt
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\ref\Reinze.dll
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\Reinze.sourcelink.json
 C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
-C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qglxvnjgi6-{0}-oukwszab08-oukwszab08.gz
-C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qe5m5nqios-{0}-oukwszab08-oukwszab08.gz
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\scopedcss\Components\Pages\Student.razor.rz.scp.css
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\p2n1dsvsw2-{0}-1o5p70u82x-1o5p70u82x.gz
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qglxvnjgi6-{0}-hw1fsgpdwx-hw1fsgpdwx.gz
+C:\Users\Tesla\Documents\newproject\hehe\Reinze\obj\Debug\net10.0\compressed\qe5m5nqios-{0}-hw1fsgpdwx-hw1fsgpdwx.gz
