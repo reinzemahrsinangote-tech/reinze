@@ -1,0 +1,21 @@
+.works-item-done, .works-item-pending {
+    display: block;
+    padding: 12px;
+    margin: 8px 0;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.works-item-done {
+    background: #d4edda;
+}
+
+.works-item-pending {
+    background: #fff3cd;
+}
+
+.works-item-done:hover,
+.works-item-pending:hover {
+    opacity: 0.8;
+}

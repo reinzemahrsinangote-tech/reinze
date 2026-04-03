@@ -1,11 +1,35 @@
 ﻿@page "/profile"
+@inject NavigationManager Nav
 
-<div class="profile-container">
-    <div class="profile-card">
-        <img src="/images/avatar.jpg" alt="Avatar" class="avatar" />
-        <h3>Reinze Mahr Sinangote</h3>
-        <p>Email: renzemahrsinangote@gmail.com</p>
-        <p>Role: Student</p>
-        <a href="/" class="btn-home">Go Back Home</a>
+<div class="page-container">
+    <button class="btn-back" @onclick='() => Nav.NavigateTo("/")'>← Back</button>
+    
+    <h2 class="text-blue text-center">My Profile</h2>
+    
+    <div class="profile-wrapper">
+        <div class="profile-card-large">
+            
+            <!-- CENTERED IMAGE -->
+            <img src="images/avatar.jpg" class="avatar" />
+
+            <!-- TEXT CONTENT -->
+            <div class="profile-info">
+                <p><strong>Name:</strong> Reinze Mahr Sinangote</p>
+                <p><strong>Course:</strong> BSIT (Bachelor of Science in Information Technology)</p>
+                <p><strong>Year Level:</strong> 2nd Year</p>
+                <p><strong>Student ID:</strong> 8240999</p>
+                <p><strong>Email:</strong> reinzemahrsinangote@gmail.com</p>
+                <p><strong>Phone:</strong> 09657611636</p>
+                <p><strong>Address:</strong> Argawanon, San Remigio, Cebu</p>
+
+                <h3>Educational Background</h3>
+                <ul>
+                    <li>Completed Senior High School at SRNHS</li>
+                    <li>Currently pursuing BSIT at CTU-DB</li>
+                    <li>Sports Writer at The Modern Fishers (official student publication)</li>
+                </ul>
+            </div>
+
+        </div>
     </div>
 </div>

@@ -1,54 +1,86 @@
 /* Full page dark background */
 :host {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;   /* fills the screen */
+    justify-content: center;   /* center horizontally */
+    align-items: center;       /* center vertically */
+    min-height: 100vh;
     background: #415aeb;
     color: white;
     font-family: Arial, sans-serif;
 }
 
-/* Card container */
-.profile-card {
+/* Wrapper to center card */
+.profile-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+/* MAIN CARD */
+.profile-card-large {
+    display: flex;
+    flex-direction: column;   /* 🔥 image on top */
+    align-items: center;      /* 🔥 center image */
+
     background: #24a2f7;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.5);
-    text-align: center;
-    width: 350px;  /* fixed width in px */
+
+    width: 400px;
+    max-width: 90%;
 }
 
-/* Avatar image */
+/* AVATAR (CENTERED) */
 .avatar {
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
     border-radius: 50%;
-    margin-bottom: 15px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 3px solid white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-/* Headings and text */
-h3 {
-    margin: 10px 0;
-    font-size: 24px;
+/* TEXT CONTAINER */
+.profile-info {
+    width: 100%;
+    text-align: left;   /* clean readable text */
 }
 
-p {
-    margin: 5px 0;
+/* TEXT SPACING */
+.profile-info p {
+    margin: 6px 0;
     font-size: 16px;
 }
 
-/* Button styling */
-.btn-home {
-    display: inline-block;
+/* HEADINGS */
+.profile-info h3 {
     margin-top: 15px;
-    padding: 10px 20px;
-    background: #4a90e2;
-    color: white;
-    text-decoration: none;
-    border-radius: 8px;
+    font-size: 22px;
 }
 
-.btn-home:hover {
+/* LIST */
+.profile-info ul {
+    padding-left: 20px;
+}
+
+/* BUTTON */
+.btn-back {
+    margin-bottom: 15px;
+    padding: 8px 16px;
+    background: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-back:hover {
     background: #357ABD;
+}
+
+/* CENTER TITLE */
+.text-center {
+    text-align: center;
 }

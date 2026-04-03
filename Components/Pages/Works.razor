@@ -1,0 +1,27 @@
+@page "/works"
+@inject NavigationManager Nav
+@rendermode InteractiveServer
+
+<div class="page-container">
+    <button class="btn-back" @onclick='() => Nav.NavigateTo("/")'>← Back</button>
+    
+    <h2 class="text-blue">My Works</h2>
+
+    <div class="works-list">
+        <a href="https://www.facebook.com/share/p/1CevLo4aKv/" target="_blank" class="works-item-done">
+            ✔ Volleyball championship game
+        </a>
+
+        <a href="https://www.facebook.com/share/p/18PNipEAvr/" target="_blank" class="works-item-done">
+            ✔ Mr. and Ms.Daanbantayan 2026
+        </a>
+
+        <a href="https://www.facebook.com/share/p/1YFmpEsqTA/" target="_blank" class="works-item-done">
+            ✔ Chistmas Tree Lighting 2025
+        </a>
+
+        <a href="https://www.facebook.com/share/p/1YFmpEsqTA/" target="_blank" class="works-item-done">
+            ✔ Pinning and Candle-Lighting Ceremony
+        </a>
+    </div>
+</div>

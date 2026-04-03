@@ -1,0 +1,42 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+@rendermode InteractiveServer
+@attribute [StreamRendering]
+@inject NavigationManager Nav
+
+<PageTitle>Student</PageTitle>
+
+<h1>My Portfolio</h1>
+
+<div class="dashboard">
+
+    @* Profile Card (keep as is) *@
+    <div class="card profile" @onclick='() => Nav.NavigateTo("/profile")' style="cursor: pointer;">
+        <h4>Profile</h4>
+        <img src="images/avatar.jpg" />
+        <p>Name: Reinze Mahr Sinangote</p>
+        <p>Course: BSIT</p>
+        <p>Click to see more..</p>
+    </div>
+
+    @* Skills Card *@
+    <div class="card" @onclick='() => Nav.NavigateTo("/skills")' style="cursor: pointer;">
+        <h4>Skills</h4>
+        <ul>
+            <li>C Programming</li>
+            <li>Java</li>
+            <li>C# Development</li>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+    </div>
+
+    @* Works Card *@
+    <div class="card" @onclick='() => Nav.NavigateTo("/works")' style="cursor: pointer;">
+        <h4>My Works</h4>
+        <ul>
+            <li>Click to see my works as a journalist in CTU-DB</li>
+        </ul>
+    </div>
+
+</div>

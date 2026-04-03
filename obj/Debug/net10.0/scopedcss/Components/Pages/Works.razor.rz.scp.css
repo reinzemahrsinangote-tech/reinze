@@ -1,0 +1,21 @@
+.works-item-done[b-omti2u8r99], .works-item-pending[b-omti2u8r99] {
+    display: block;
+    padding: 12px;
+    margin: 8px 0;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.works-item-done[b-omti2u8r99] {
+    background: #d4edda;
+}
+
+.works-item-pending[b-omti2u8r99] {
+    background: #fff3cd;
+}
+
+.works-item-done:hover[b-omti2u8r99],
+.works-item-pending:hover[b-omti2u8r99] {
+    opacity: 0.8;
+}

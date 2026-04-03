@@ -1,0 +1,7 @@
+C:\publish\Reinze.exe
+C:\publish\appsettings.Development.json
+C:\publish\appsettings.json
+C:\publish\Reinze.dll
+C:\publish\Reinze.runtimeconfig.json
+C:\publish\Reinze.pdb
+C:\publish\Reinze.deps.json

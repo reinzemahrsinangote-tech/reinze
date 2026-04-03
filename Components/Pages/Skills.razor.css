@@ -1,0 +1,58 @@
+
+.page-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.btn-back {
+    margin-bottom: 15px;
+    padding: 8px 16px;
+    background: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-hover:hover {
+    background: #357abd;
+}
+
+.text-blue {
+    color: #415aeb;
+    margin-bottom: 20px;
+}
+
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.skill span {
+    display: block;
+    font-size: 1.3rem; /* bigger skill name */
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.progress {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    height: 40px; /* taller bar */
+    overflow: hidden;
+}
+
+.progress-bar {
+    background-color: #415aeb;
+    height: 100%;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem; /* bigger percentage text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 0 0 10px;
+    transition: width 1s ease-in-out; /* smooth fill animation */
+}

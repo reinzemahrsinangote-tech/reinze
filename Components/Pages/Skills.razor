@@ -1,0 +1,106 @@
+@page "/skills"
+@inject NavigationManager Nav
+
+<div class="page-container">
+    <button class="btn-back" @onclick='() => Nav.NavigateTo("/")'>← Back</button>
+
+    <h2 class="text-blue">My Skills</h2>
+
+    <div class="skills-container">
+
+        <div class="skill">
+            <span>C Programming</span>
+            <div class="progress">
+                <div class="progress-bar" style="width: 85%;">85%</div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <span>Java</span>
+            <div class="progress">
+                <div class="progress-bar" style="width: 75%;">75%</div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <span>C# Development</span>
+            <div class="progress">
+                <div class="progress-bar" style="width: 80%;">80%</div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <span>HTML</span>
+            <div class="progress">
+                <div class="progress-bar" style="width: 90%;">90%</div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <span>CSS</span>
+            <div class="progress">
+                <div class="progress-bar" style="width: 85%;">85%</div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<style>
+.page-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.btn-back {
+    margin-bottom: 15px;
+    padding: 8px 16px;
+    background: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-hover:hover {
+    background: #357abd;
+}
+
+.text-blue {
+    color: #415aeb;
+    margin-bottom: 20px;
+}
+
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.skill span {
+    display: block;
+    font-size: 1.3rem; /* bigger skill name */
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.progress {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    height: 40px; /* taller bar */
+    overflow: hidden;
+}
+
+.progress-bar {
+    background-color: #415aeb;
+    height: 100%;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem; /* bigger percentage text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 0 0 10px;
+    transition: width 1s ease-in-out; /* smooth fill animation */
+}
+</style>

@@ -26,24 +26,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Announcements.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBbm5vdW5jZW1lbnRzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Grades.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHcmFkZXMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Tasks.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNrcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Routes.razor]
@@ -66,10 +50,18 @@ build_metadata.AdditionalFiles.CssScope = b-ur2mxq63xp
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-l634hpk08p
 
+[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-1er76t9wka
+
 [C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-lusr6xwfb7
 
-[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Student.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdHVkZW50LnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-txuzc0vu1t
+[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTa2lsbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a5fmwha4a8
+
+[C:/Users/Tesla/Documents/newproject/hehe/Reinze/Components/Pages/Works.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXb3Jrcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-omti2u8r99
